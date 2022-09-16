@@ -16,7 +16,7 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        //$this->call(AutomobilSeeder::class);
+        //$this->call(KamionSeeder::class);
          //$this->call(RezervacijaSeeder::class);
         User::truncate();
         Kamion::truncate();

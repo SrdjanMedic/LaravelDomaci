@@ -17,7 +17,7 @@ class IzmenaTabeleKamion extends Migration
         //     $table->renameColumn('cena','CENA');
         // });
         // Schema::table('kamions', function (Blueprint $table) {
-        //     //vidi se u phpmysql-u, deo structure
+        //    
         //     $table->string('gorivo', 50)->change();
         // });
         // Schema::table('kamions',function (Blueprint $table){
